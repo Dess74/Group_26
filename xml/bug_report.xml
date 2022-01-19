@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bub_report>
+	<summary>Не добавляется товар в корзину</summary>
+	<Project>web site</Project>
+	<Component>site shopping cart</Component>
+	<Version>1.001</Version>
+	<Severity>Blocker</Severity>
+	<Priority>High</Priority>
+</Bub_report>
